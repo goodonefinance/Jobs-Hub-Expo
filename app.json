@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Jobs Hub",
+    "slug": "jobs-hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.goodone.jobshub"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a2c2bcbe-f073-42cf-b06e-b6983116b419"
+      }
+    }
+  }
+}
